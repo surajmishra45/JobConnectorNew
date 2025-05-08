@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+
+# Dependency folders
+node_modules/
+dist/
+build/
+
+# dotenv
+.env*
+
+# IDE/editor
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+.DS_Store
+
+# misc
+*.local

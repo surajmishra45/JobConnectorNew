@@ -1,0 +1,22 @@
+# Logs
+logs
+*.log
+
+# Runtime files
+pids
+*.pid
+*.seed
+
+# Dependency folders
+node_modules/
+dist/
+
+# dotenv
+.env*
+
+# Editor configs
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+.DS_Store
